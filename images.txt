@@ -7,3 +7,5 @@ nginx
 redis
 mysql
 zookeeper
+kafka
+nacos
