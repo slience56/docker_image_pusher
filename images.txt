@@ -1,2 +1,2 @@
-kafka
-#nothing
+confluentinc/cp-kafka
+nacos/nacos-server
