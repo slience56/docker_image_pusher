@@ -1,1 +1,1 @@
-nacos/nacos-server:3.0.3-slim
+nacos/nacos-server:v3.0.3-slim
