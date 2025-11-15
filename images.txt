@@ -1,1 +1,1 @@
-postgres:15-alpine
+amazon/dynamodb-local:latest
