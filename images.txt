@@ -1,1 +1,1 @@
-nacos/nacos-server:v3.0.3-slim
+postgres:latest-arm64v8
