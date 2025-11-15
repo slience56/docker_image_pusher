@@ -1,1 +1,1 @@
-arm64v8/postgres:latest
+pull postgres:15-alpine
