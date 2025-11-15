@@ -1,1 +1,1 @@
-postgres:latest-arm64v8
+arm64v8/postgres:latest
